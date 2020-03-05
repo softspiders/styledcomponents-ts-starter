@@ -1,6 +1,6 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# styledcomponents-js-starter
+# styledcomponents-ts-starter
 
 Minimalistic _React_ application in _TypeScript_ with _styled-components_.
 
@@ -17,6 +17,7 @@ Minimalistic _React_ application in _TypeScript_ with _styled-components_.
 ## Requirements
 
 - [Node.js](https://nodejs.org/en/download/package-manager/)
+- [TypeScript](https://www.typescriptlang.org/)
 - To work in VSCode recommended to use [plugin](https://github.com/styled-components/vscode-styled-components)
 
 ---
