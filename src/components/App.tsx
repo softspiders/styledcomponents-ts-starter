@@ -16,7 +16,7 @@ const themeArial = {
 
 function App() {
   return (
-    <div className="App">
+    <Wrapper>
       <ThemeProvider theme={themeCalibri}>
         <Header>Small Calibri text!</Header>
       </ThemeProvider>
@@ -25,7 +25,7 @@ function App() {
           <Header>Big Arial text!</Header>
         </Wrapper>
       </ThemeProvider>
-    </div>
+    </Wrapper>
   );
 }
 

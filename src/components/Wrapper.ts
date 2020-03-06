@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
 export default styled.div`
-  padding-right: 10px;
-  padding-left: 10px;
+  padding-right: 15px;
+  padding-left: 15px;
 `;
