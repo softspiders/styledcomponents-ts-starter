@@ -11,7 +11,7 @@ Minimalistic _React_ application in _TypeScript_ with _styled-components_.
 - template
 - typescript
 - styled-components
-
+- theme-provider
 ---
 
 ## Requirements
