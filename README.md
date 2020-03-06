@@ -5,7 +5,7 @@
 Minimalistic _React_ application in _TypeScript_ with _styled-components_.
 
 <div align="center">
-    <img alt="Screenshot of the above code ran in a browser" src="images/Example.png" />
+    <img alt="Screenshot of the application code run in a browser" src="images/Example.png" />
 </div>
 
 ## Feature tags
