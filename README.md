@@ -7,8 +7,8 @@ Minimalistic _React_ application in _TypeScript_ with _styled-components_.
 ## Feature tags
 
 - cra
-- starter
 - ie11
+- starter
 - styled-components
 - template
 - theme-provider
