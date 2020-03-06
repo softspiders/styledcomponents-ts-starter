@@ -18,6 +18,9 @@ Minimalistic _React_ application in _TypeScript_ with _styled-components_.
 ## Direct ancestors
 [***-styled-components, theme-provider***](https://github.com/softspiders/cra-ts-ie11-starter)
 
+## Direct descendants
+[***+formik***](https://github.com/softspiders/cra-formik-styledcomponents-ts-starter)
+
 ## Author
 
 [Dmitrii](https://github.com/dmitrii92)
