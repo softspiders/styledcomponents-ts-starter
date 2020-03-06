@@ -15,7 +15,7 @@ Minimalistic _React_ application in _TypeScript_ with _styled-components_.
 - typescript
 
 ---
-Direct ancestors
+## Direct ancestors
 [***-styled-components, theme-provider***](https://github.com/softspiders/cra-ts-ie11-starter)
 
 ## Author
