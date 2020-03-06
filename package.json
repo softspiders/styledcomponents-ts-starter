@@ -12,6 +12,7 @@
     "@types/react-dom": "^16.9.5",
     "@types/styled-components": "^5.0.1",
     "react": "^16.13.0",
+    "react-app-polyfill": "^1.0.4",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0",
     "styled-components": "^5.0.1",
@@ -35,7 +36,8 @@
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
-      "last 1 safari version"
+      "last 1 safari version",
+      "IE 11"
     ]
   }
 }
