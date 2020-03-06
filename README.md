@@ -14,10 +14,10 @@ Minimalistic _React_ application in _TypeScript_ with _styled-components_.
 
 - cra
 - starter
-- template
-- typescript
 - styled-components
+- template
 - theme-provider
+- typescript
 
 ---
 
